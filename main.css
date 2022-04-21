@@ -1,0 +1,24 @@
+h1 {
+    color: rgb(10, 167, 167);
+    font-style: oblique;
+}
+p {
+    color: blue;
+    font-weight: 300;
+    font-style: 'Palette Mosaic'; sans - serif;
+
+}
+p span {
+
+    color: rgb(15, 5, 26);
+    font-size: 2pc;
+}
+.parrafo1 {
+    color: brown;
+}
+#parrafo2 {
+    color: aqua;
+}
+ul {
+    list-style: none;
+}
